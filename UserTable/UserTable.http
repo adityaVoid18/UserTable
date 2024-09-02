@@ -1,0 +1,6 @@
+@UserTable_HostAddress = http://localhost:5150
+
+GET {{UserTable_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
